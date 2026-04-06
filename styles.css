@@ -1,2 +1,25 @@
+.holder{
+	display:flex;
+	justify-content:space-between;
+	font-size:40px;
+	flex-wrap:wrap;
+}
 
-/* Your CSS Code here. */
+.item1{
+	width:100px;
+	height:100px;
+	background-color:red;
+	order:1;
+}
+.item2{
+	width:100px;
+	height:100px;
+	background-color:blue;
+	order:1;
+}
+.item3{
+	width:100px;
+	height:100px;
+	background-color:green;
+	order:;
+}
